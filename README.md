@@ -1,1 +1,1 @@
- Everything that i learned from Mozilla community
+Few python stuff that i learned from opensource community MOZILLA
